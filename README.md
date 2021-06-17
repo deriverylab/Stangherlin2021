@@ -1,8 +1,12 @@
 # Stangherlin2021
-Codes for detection, tracking and analysis of quantum dots in cells. From Stangherlin et al., Nature Communications, 2021.
+Codes for detection, tracking and analysis of quantum dots in cells.
+From "Compensatory ion transport buffers daily protein rhythms to regulate osmotic balance and cellular physiology"
+https://www.biorxiv.org/content/10.1101/2020.05.28.118398v1
+Note that this work is not yet peer reviewed.
+
 
 This document describes the installation and usage of codes for the tracking of quantum dots (QDs) diffusing in the cytosol of cells.
-Emmanuel Derivery and Joseph Watson
+Emmanuel Derivery and Joseph L Watson.
 
 
 This folder contains one cropped movie per time point (24h, 36h, 48h, 60h), upon which to test the codes.
