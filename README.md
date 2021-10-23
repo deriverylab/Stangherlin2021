@@ -1,9 +1,7 @@
 # Stangherlin2021
 Codes for detection, tracking and analysis of quantum dots in cells.
-From "Compensatory ion transport buffers daily protein rhythms to regulate osmotic balance and cellular physiology"
-Nature Communcations, 2021.
+From "Compensatory ion transport buffers daily protein rhythms to regulate osmotic balance and cellular physiology", Nature Communcations, 2021.
 https://www.nature.com/articles/s41467-021-25942-4.
-Note that this work is not yet peer reviewed.
 
 
 This document describes the installation and usage of codes for the tracking of quantum dots (QDs) diffusing in the cytosol of cells.
